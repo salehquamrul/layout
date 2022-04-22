@@ -1,0 +1,22 @@
+.header,
+.hero,
+.body,
+.bar,
+.footer {
+  margin-bottom: 10px;
+  background-color: orange;
+}
+.box {
+  margin: 10px 0;
+  min-height: 80px;
+  background-color: teal;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.blue {
+  background-color: blue;
+}
+.brown {
+  background-color: brown;
+}
